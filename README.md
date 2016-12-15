@@ -1,4 +1,4 @@
 # hello-world
-My test GitHub repository
+My test repository
 
 Aloha
